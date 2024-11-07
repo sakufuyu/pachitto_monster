@@ -1,0 +1,12 @@
+# .gitignore
+*.class
+.vscode/
+.settings/
+.project
+.classpath
+bin/
+target/
+out/
+*.jar
+*.war
+*.log

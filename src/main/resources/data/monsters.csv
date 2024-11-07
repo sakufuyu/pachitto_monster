@@ -1,0 +1,8 @@
+id,name,type,baseHp,baseAttack,baseDefense,description
+0,Pachichu,FIRE,30,30,30,Simple pachimon.
+1,Firemander,FIRE,45,40,35,A fire-type monster with a burning eyes.
+2,Watertle,WATER,44,35,40,A water-type monster with a tough shell.
+3,Leafasaur,GRASS,45,35,40,A grass-type monster with a leaf on its back.
+4,Embear,FIRE,50,45,30,A powerful fire-type monster.
+5,Aquape,WATER,40,35,35,A water-type monkey monster.
+6,Plantox,GRASS,42,38,38,A toxic grass-type monster.
