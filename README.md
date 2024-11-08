@@ -1,18 +1,48 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Pachitto Monster
 
-## Folder Structure
+A simple Po**mon-like game implemented in Java 8.
 
-The workspace contains two folders by default, where:
+## Description
+This is a Poke***-style game where players can:
+- Explore a 2D map
+- Encounter wild monsters in grass areas
+- Battle using a rock-paper-scissors system
+- Capture and collect monsters
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Requirements
+- Java 8 or higher
+- JavaFX
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## How to Run
+1. Clone this repository
+2. Navigate to the project directory
+3. Compile the source files:
+```bash
+javac -d bin src/main/java/com/sakufuyu/App.java
+```
+4. Run the application:
+```bash
+java -cp bin com.sakufuyu.App
+```
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Controls
+- Arrow keys: Move character
+- Enter: Interact/Confirm
+- Escape: Menu/Cancel
 
-## Dependency Management
+## Features
+- Simple 2D map navigation
+- Random monster encounters in grass areas
+- Battle system based on rock-paper-scissors
+- Monster collection system
+- Basic inventory management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Screenshots
+[🚨🚨🚨ここにビデオとかスクショついか🚨🚨🚨]
+
+## Future Improvements
+- Add more monsters
+- Implement monster evolution system
+- Add NPC interactions
+- Expand the map
