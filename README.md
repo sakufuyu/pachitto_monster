@@ -38,8 +38,8 @@ java -cp bin com.sakufuyu.App
 - Monster collection system
 - Basic inventory management
 
-## Screenshots
-[🚨🚨🚨ここにビデオとかスクショついか🚨🚨🚨]
+## Test play video:
+[https://d2wm9ivq8if9lh.cloudfront.net/pachitto_monster_test_play.html]
 
 ## Future Improvements
 - Add more monsters
